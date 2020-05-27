@@ -1,6 +1,6 @@
 {
   "name": "beepbox",
-  "version": "0.0.1",
+  "version": "3.0.9",
   "description": "BeepBox is an online tool for sketching and sharing instrumental melodies. Try it out [here](https://beepbox.co)!",
   "main": "index.js",
   "directories": {

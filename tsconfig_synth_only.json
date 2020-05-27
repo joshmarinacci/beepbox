@@ -20,6 +20,9 @@
 	},
 	"typedocOptions": {
 		"mode": "modules",
-		"out": "docs"
+		"out": "docs",
+		"excludePrivate": true,
+		"stripInternal": true,
+		"includeVersion": true
 	}
 }
