@@ -1,0 +1,27 @@
+{
+  "name": "beepbox",
+  "version": "0.0.1",
+  "description": "BeepBox is an online tool for sketching and sharing instrumental melodies. Try it out [here](https://beepbox.co)!",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs": "typedoc --tsconfig tsconfig_synth_only.json "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshmarinacci/beepbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshmarinacci/beepbox/issues"
+  },
+  "homepage": "https://github.com/joshmarinacci/beepbox#readme",
+  "devDependencies": {
+    "typedoc": "^0.17.7",
+    "typescript": "^3.9.3"
+  }
+}
